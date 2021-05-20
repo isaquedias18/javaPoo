@@ -1,2 +1,2 @@
 # javaPoo
- Projeto Iniciante de Programação Orientado a Objeto
+ Projeto Iniciante de Programação Orientada a Objeto
